@@ -16,7 +16,7 @@ const App = () => {
   return (
     <>
       <ErrorBoundary>
-        <Header />
+        <Header /> <br /><br />
         <Nav />
         <About />
         <Exp />

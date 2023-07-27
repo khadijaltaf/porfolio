@@ -46,7 +46,6 @@ body{
 .container{
   width: var(--container-width-lg);
   margin: 0 auto;
-
 }
 
 
@@ -120,6 +119,7 @@ img{
 @media screen and (max-width: 1024px){
   .container{
     width: var(--container-width-md);
+    height: auto;
   }
 
   section{
@@ -137,3 +137,4 @@ img{
     margin-top: 2rem;
   }
 }
+
